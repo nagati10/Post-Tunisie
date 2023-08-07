@@ -10,7 +10,7 @@ Avant de lancer le projet, assurez-vous d'avoir installé les éléments suivant
 1. Node.js (version 18 ou supérieure)
 2. MongoDB
 3. Run MongoDB Compass and connect to the provided MongoDB Atlas cluster using the provided connection string:
- mongodb+srv://nagatinajd:CLMjlF0Q8Tz5n2to@cluster0.yqaz1hq.mongodb.net/
+ mongodb+srv://nagatinajd:YwDqZ1HVPlMkatuc@cluster0.yqaz1hq.mongodb.net/
 
 
 Exécution de l'Application

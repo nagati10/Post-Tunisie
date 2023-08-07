@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 const StagiaireModel = require("./models/stagiaires");
 const cors = require("cors");
 
-mongoose.connect("mongodb+srv://nagatinajd:CLMjlF0Q8Tz5n2to@cluster0.yqaz1hq.mongodb.net/PostTN?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://nagatinajd:YwDqZ1HVPlMkatuc@cluster0.yqaz1hq.mongodb.net/PostTN?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })

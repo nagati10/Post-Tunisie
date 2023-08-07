@@ -11,7 +11,7 @@ class CreateStagiaire extends Component {
       position: "",
       phone: "",
       email: "",
-      stagiairestate: "",
+      stagiairestate: "Waiting",
       feedbackMessage: "",
     };
   }
